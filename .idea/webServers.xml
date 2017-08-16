@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c6a4b41e-403f-4d14-982d-e7a4083f2df2" name="LOGIN" url="http://localhost">
+        <fileTransfer port="0" mountedRoot="C:\LOGINAPP" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>
